@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "guild_id": 123456789012345678,
+    "ticket_category_id": 123456789012345678,
+    "archive_channel_id": 123456789012345678,
+    "embed_color": "#5865F2",
+    "owners": [123456789012345678]
+}
